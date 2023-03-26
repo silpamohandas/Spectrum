@@ -1,0 +1,170 @@
+body{
+  background-color: black;
+}
+h2{
+color: white;
+text-align: center;
+font-family:Arial, Helvetica, sans-serif;
+font-style: italic;
+}
+.art{
+  margin: auto;
+  border-spacing: 6px;
+
+}
+
+#one{
+  background-color: rgb(61, 56, 56);
+  height: 150px;
+  width: 100px;
+ margin: auto;
+ 
+
+}
+#two{
+  background-color: rgba(6, 73, 23, 0.815);
+  height: 150px;
+  width: 100px;
+ 
+}
+#three{
+  background-color: rgb(10, 138, 48);
+  height: 150px;
+  width: 100px;
+ 
+}
+#four{
+  background-color: rgb(20, 224, 20);
+  height: 150px;
+  width: 100px;
+
+}
+#five{
+  background-color: rgb(199, 186, 186);
+  height: 150px;
+  width: 100px;
+ 
+}
+#one1{
+  background-color: rgb(235, 100, 10);
+  height: 150px;
+  width: 100px;
+
+ 
+
+}
+#two1{
+  background-color: rgb(206, 33, 33);
+  height: 150px;
+  width: 100px;
+ margin: auto;
+ 
+
+}
+#three1{
+  background-color: rgb(146, 72, 72);
+  height: 150px;
+  width: 100px;
+ margin: auto;
+ 
+
+}
+#four1{
+  background-color: rgb(129, 48, 161);
+  height: 150px;
+  width: 100px;
+ margin: auto;
+ 
+
+}
+#five1{
+  background-color: rgb(80, 5, 95);
+  height: 150px;
+  width: 100px;
+ margin: auto;
+ 
+
+}
+
+#six1{
+  background-color: rgb(119, 40, 129);
+  height: 150px;
+  width: 100px;
+ 
+}
+#seven1{
+  background-color: rgb(104, 80, 80);
+  height: 150px;
+  width: 100px;
+ 
+}
+#tr1{
+  margin: auto;
+  border-spacing: 6px;
+}
+
+#one2{
+  background-color: rgb(110, 228, 222);
+  height: 150px;
+  width: 100px;
+
+ 
+
+}
+#two2{
+  background-color: rgb(148, 240, 87);
+  height: 150px;
+  width: 100px;
+ margin: auto;
+ 
+
+}
+#three2{
+  background-color: rgb(250, 141, 69);
+  height: 150px;
+  width: 100px;
+ margin: auto;
+ 
+
+}
+#four2{
+  background-color: rgb(172, 9, 36);
+  height: 150px;
+  width: 100px;
+ margin: auto;
+ 
+
+}
+#five2{
+  background-color: rgb(32, 11, 5);
+  height: 150px;
+  width: 100px;
+ margin: auto;
+ 
+
+}
+
+#six2{
+  background-color: rgb(3, 175, 175);
+  height: 150px;
+  width: 100px;
+ 
+}
+#seven2{
+  background-color: rgb(11, 122, 71);
+  height: 150px;
+  width: 100px;
+ 
+}
+#eight2{
+  background-color: rgb(75, 29, 82);
+  height: 150px;
+  width: 100px;
+ 
+}
+#nine2{
+  background-color: rgb(58, 13, 48);
+  height: 150px;
+  width: 100px;
+ 
+}
